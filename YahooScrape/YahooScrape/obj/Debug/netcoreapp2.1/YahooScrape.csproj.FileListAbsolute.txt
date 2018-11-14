@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/RiderProjects/YahooScrape/YahooScrape/bin/Debug/netcoreapp2.1/YahooScrape.deps.json
+/Users/JuanCMontoya/Projects/RiderProjects/YahooScrape/YahooScrape/bin/Debug/netcoreapp2.1/YahooScrape.runtimeconfig.json
+/Users/JuanCMontoya/Projects/RiderProjects/YahooScrape/YahooScrape/bin/Debug/netcoreapp2.1/YahooScrape.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/RiderProjects/YahooScrape/YahooScrape/bin/Debug/netcoreapp2.1/YahooScrape.dll
+/Users/JuanCMontoya/Projects/RiderProjects/YahooScrape/YahooScrape/bin/Debug/netcoreapp2.1/YahooScrape.pdb
+/Users/JuanCMontoya/Projects/RiderProjects/YahooScrape/YahooScrape/obj/Debug/netcoreapp2.1/YahooScrape.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/RiderProjects/YahooScrape/YahooScrape/obj/Debug/netcoreapp2.1/YahooScrape.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/RiderProjects/YahooScrape/YahooScrape/obj/Debug/netcoreapp2.1/YahooScrape.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/RiderProjects/YahooScrape/YahooScrape/obj/Debug/netcoreapp2.1/YahooScrape.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/RiderProjects/YahooScrape/YahooScrape/obj/Debug/netcoreapp2.1/YahooScrape.dll
+/Users/JuanCMontoya/Projects/RiderProjects/YahooScrape/YahooScrape/obj/Debug/netcoreapp2.1/YahooScrape.pdb
