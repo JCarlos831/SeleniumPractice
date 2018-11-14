@@ -3617,11 +3617,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/JuanCMontoya/Projects/RiderProjects/YahooScrape/YahooScrape/YahooScrape.csproj",
+      "projectUniqueName": "/Users/JuanCMontoya/Projects/RiderProjects/Selenium/YahooScrape/YahooScrape/YahooScrape.csproj",
       "projectName": "YahooScrape",
-      "projectPath": "/Users/JuanCMontoya/Projects/RiderProjects/YahooScrape/YahooScrape/YahooScrape.csproj",
+      "projectPath": "/Users/JuanCMontoya/Projects/RiderProjects/Selenium/YahooScrape/YahooScrape/YahooScrape.csproj",
       "packagesPath": "/Users/JuanCMontoya/.nuget/packages/",
-      "outputPath": "/Users/JuanCMontoya/Projects/RiderProjects/YahooScrape/YahooScrape/obj/",
+      "outputPath": "/Users/JuanCMontoya/Projects/RiderProjects/Selenium/YahooScrape/YahooScrape/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

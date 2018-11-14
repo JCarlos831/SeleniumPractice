@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/RiderProjects/Selenium/NasdaqScrape/NasdaqScrape/bin/Debug/netcoreapp2.1/NasdaqScrape.deps.json
+/Users/JuanCMontoya/Projects/RiderProjects/Selenium/NasdaqScrape/NasdaqScrape/bin/Debug/netcoreapp2.1/NasdaqScrape.runtimeconfig.json
+/Users/JuanCMontoya/Projects/RiderProjects/Selenium/NasdaqScrape/NasdaqScrape/bin/Debug/netcoreapp2.1/NasdaqScrape.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/RiderProjects/Selenium/NasdaqScrape/NasdaqScrape/bin/Debug/netcoreapp2.1/NasdaqScrape.dll
+/Users/JuanCMontoya/Projects/RiderProjects/Selenium/NasdaqScrape/NasdaqScrape/bin/Debug/netcoreapp2.1/NasdaqScrape.pdb
+/Users/JuanCMontoya/Projects/RiderProjects/Selenium/NasdaqScrape/NasdaqScrape/obj/Debug/netcoreapp2.1/NasdaqScrape.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/RiderProjects/Selenium/NasdaqScrape/NasdaqScrape/obj/Debug/netcoreapp2.1/NasdaqScrape.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/RiderProjects/Selenium/NasdaqScrape/NasdaqScrape/obj/Debug/netcoreapp2.1/NasdaqScrape.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/RiderProjects/Selenium/NasdaqScrape/NasdaqScrape/obj/Debug/netcoreapp2.1/NasdaqScrape.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/RiderProjects/Selenium/NasdaqScrape/NasdaqScrape/obj/Debug/netcoreapp2.1/NasdaqScrape.dll
+/Users/JuanCMontoya/Projects/RiderProjects/Selenium/NasdaqScrape/NasdaqScrape/obj/Debug/netcoreapp2.1/NasdaqScrape.pdb
